@@ -1,0 +1,29 @@
+{
+ "people": [
+    {
+      "Name": "Margaret Hamilton",
+      "Picture": "../../Shared/Images/picture.jpeg",
+      "Designation": "Software Engineer"
+    },
+    {
+      "Name": "Margaret Hamilton",
+      "Picture": "../../Shared/Images/picture.jpeg",
+      "Designation": "Software Engineer"
+    },
+    {
+      "Name": "Margaret Hamilton",
+      "Picture": "../../Shared/Images/picture.jpeg",
+      "Designation": "Software Engineer"
+    },
+    {
+      "Name": "Margaret Hamilton",
+      "Picture": "../../Shared/Images/picture.jpeg",
+      "Designation": "Software Engineer"
+    },
+    {
+      "Name": "Margaret Hamilton",
+      "Picture": "../../Shared/Images/picture.jpeg",
+      "Designation": "Software Engineer"
+    }
+  ]
+}

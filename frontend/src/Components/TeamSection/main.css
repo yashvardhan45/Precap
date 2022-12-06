@@ -1,0 +1,16 @@
+.TeamHeading {
+  font-size: 3rem;
+}
+
+.TeamDescription {
+  padding-top: 10%;
+  font-size: 1.5rem;
+}
+
+.TeamSection {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: 5%;
+  margin-right: 5%;
+}

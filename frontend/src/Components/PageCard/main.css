@@ -1,0 +1,23 @@
+.Cards {
+  margin-top: 10%;
+  display: block;
+  margin-left: 2%;
+  margin-right: 2%;
+  border: 1px solid;
+  border-radius: 10px;
+  width: 25%;
+  padding: 3%;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Cards > a {
+  text-decoration: none;
+  color: black;
+}
+
+.Cards > img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

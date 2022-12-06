@@ -1,0 +1,65 @@
+.ContactHeading {
+  padding-top: 10%;
+  font-size: 3rem;
+}
+
+.ContactDescription {
+  font-size: 1.5rem;
+  padding-bottom: 5%;
+}
+
+.ContactForm {
+  justify-content: center;
+  padding: 5%;
+  padding-top: -5%;
+}
+
+.ContactForm > input, .ContactForm > textarea {
+  border-top-style: hidden;
+  border-left-style: hidden;
+  border-right-style: hidden;
+  border-radius: 30px;
+  height: 30px;
+  border-color: rgb(76, 0, 255);
+  display: inline-block;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding-left: 5%;
+  padding-right: 5%;
+  margin-bottom: 2%;
+}
+
+.ContactForm > input::placeholder, .ContactForm > textarea::placeholder{
+  font-family: Verdana;
+}
+
+
+.ContactForm > input:focus{
+  border-color:rgb(76, 0, 255);
+  box-shadow: 0 0 10px #719ECE;
+}
+
+#Name,
+#Email {
+  width: 20%;
+}
+
+#Subject {
+  width: 56%;
+}
+
+#Message {
+  width: 56%;
+  height: 10rem;
+}
+
+#SubmitContactForm {
+  text-align: center;
+  width: 56%;
+  padding: 1%;
+  border-radius: 30px;
+  border-color: rgb(76, 0, 255);
+  background-color: rgba(76, 0, 255, 0.773);
+  color: #fff;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
